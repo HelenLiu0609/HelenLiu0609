@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HelenLiu
 - 👀 I’m currently a master student in Educational Psychology at the University of Sydney!
 - 🌱 I’m interested in human learning process, second language learning and education issue. 
-- ☹️ I'm started to learn using software R and Python in my research.
+- 😆 I'm learning to use software R and Python in research. 
 - 📫 You can reach me at zliu3474@uni.sydney.edu.au 
 
 <!---
