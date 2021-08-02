@@ -3,7 +3,7 @@
 - 🌱 My research intersts are human learning process, second language aquisition and educational issues. 
 - 😆 I'm currenlty learning to use software R and Python in my research. 
 - 📸 You can know more about my education history and research experience in my "CV" repository. 
-- 📫 You can reach me at zliu3474@uni.sydney.edu.au 
+- 📫 Reach me at zliu3474@uni.sydney.edu.au 
 
 <!---
 HelenLiu0609/HelenLiu0609 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
