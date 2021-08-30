@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HelenLiu
 - 👀 I’m currently a master's student in Educational Psychology at the University of Sydney!
-- 🌱 My research intersts include human learning process, second language aquisition and educational issues. 
+- 🌱 My research intersts include human learning process, meta-research and educational issues. 
 - 😆 I'm currenlty learning to use software R and Python. 
 - 📸 You can know more about my education history and research experience in my "CV" repository. 
 - 📫 Reach me at zliu3474@uni.sydney.edu.au 
