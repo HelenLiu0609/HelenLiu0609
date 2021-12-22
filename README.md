@@ -1,28 +1,29 @@
 - 👋 Hi, I’m @HelenLiu
-- 👀 I’m currently a master's student in Educational Psychology at the University of Sydney.
-- 🌱 My research intersts include self cognition, computational modeling and meta-science.
-- 😆 I'm new to programming,still developing my skills!
+- I’m currently a master's student in Educational Psychology at the University of Sydney.
+- My research intersts include self cognition, computational modeling and meta-science.
+- I'm new to programming,still developing my skills!
 - 📫 Reach me at zliu3474@uni.sydney.edu.au 
 
 Research Interests 
 --
-`Self-cognition` 
-
-`computational modelling` 
-
+`Self-cognition` `computational modelling` 
 `meta-research`
 
 Education 
 -- 
-__University of Sydney (USYD)__, Sydney, Australia  *02/2021-current*
+1. 02/2021-current
 
-■	M.Ed. in Educational Psychology
+■	__University of Sydney (USYD)__, Sydney, Australia  
 
-__Australian National University (ANU)__, Canberra, Australia *07/2018-07/2020*
+	M.Ed. in Educational Psychology
 
-__Southwest University (SWU)__, Chongqing, China    *09/2016-06/2018*
+2. 09/2016-07/2020
 
-■	Dual Degree, B.Sc. in Psychology  
+■	__Australian National University (ANU)__, Canberra, Australia 
+
+■	__Southwest University (SWU)__, Chongqing, China   
+
+	Dual Degree, B.Sc. in Psychology  
 
 
 <!---
