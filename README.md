@@ -27,7 +27,7 @@ Education
 Publication 
 --
 
-■  Li,J., Liu, Z., Du, Z., Zhu, N., Qiu, X., & Xu, X. (2021). Cortical Activation During Finger Tapping Task Performance in Parkinson’s Disease Is Influenced by Priming Conditions: An ALE Meta-Analysis. Frontiers in Human Neuroscience, 15, 774656–. https://doi.org/10.3389/fnhum.2021.774656
+-  Li,J., __Liu, Z.__, Du, Z., Zhu, N., Qiu, X., & Xu, X. (2021). Cortical Activation During Finger Tapping Task Performance in Parkinson’s Disease Is Influenced by Priming Conditions: An ALE Meta-Analysis. Frontiers in Human Neuroscience, 15, 774656–. https://doi.org/10.3389/fnhum.2021.774656
 
 
 <!---
