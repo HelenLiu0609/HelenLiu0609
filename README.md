@@ -16,13 +16,18 @@ Education
 
 	M.Ed. in Educational Psychology
 
-2. 09/2016-07/2020
+2. 09/2016-10/2020
 
 ■	__Australian National University (ANU)__, Canberra, Australia 
 
 ■	__Southwest University (SWU)__, Chongqing, China   
 
 	Dual Degree, B.Sc. in Psychology  
+	
+Publication 
+--
+
+■  Li,J., Liu, Z., Du, Z., Zhu, N., Qiu, X., & Xu, X. (2021). Cortical Activation During Finger Tapping Task Performance in Parkinson’s Disease Is Influenced by Priming Conditions: An ALE Meta-Analysis. Frontiers in Human Neuroscience, 15, 774656–. https://doi.org/10.3389/fnhum.2021.774656
 
 
 <!---
