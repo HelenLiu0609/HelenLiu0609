@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HelenLiu
 - I’m currently a master's student in Educational Psychology at the University of Sydney.
-- I'm new to programming,still developing my skills!
+- I'm new to programming and modelling,still developing my skills!
 - 📫 Reach me at zliu3474@uni.sydney.edu.au 
 
 Research Interests 
@@ -29,7 +29,12 @@ Publication
 
 -  Li,J., __Liu, Z.__, Du, Z., Zhu, N., Qiu, X., & Xu, X. (2021). Cortical Activation During Finger Tapping Task Performance in Parkinson’s Disease Is Influenced by Priming Conditions: An ALE Meta-Analysis. Frontiers in Human Neuroscience, 15, 774656–. https://doi.org/10.3389/fnhum.2021.774656
 
+Awards 
+--
 
+- 2021 Postgraduate Student Leader of the Year Award, USYD
+- 2017 Dean’s International Science Excellence Scholarship, ANU
+- 2017 Annual Studentship in English Excellence, SWU
 <!---
 HelenLiu0609/HelenLiu0609 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
