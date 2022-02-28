@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HelenLiu
-- I’m currently a master's student in Educational Psychology at the University of Sydney.
+- I’m currently a research assistant at Nanjing Normal University.
 - I'm new to programming and modelling,still developing my skills!
 - 📫 Reach me at zliu3474@uni.sydney.edu.au 
 
@@ -10,7 +10,7 @@ Research Interests
 
 Education 
 -- 
-1. 02/2021-current
+1. 02/2021-01/2022
 
 ■	__University of Sydney (USYD)__, Sydney, Australia  
 
