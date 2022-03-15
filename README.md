@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HelenLiu
 - I’m currently a research assistant at Nanjing Normal University(NNU).
 - I'm new to programming and modelling,still developing my skills ;)
-- 📫 Reach me at zliu3474@uni.sydney.edu.au 
+- 📫 Reach me at helenliu0609@hotmail.com!
 
 Research Interests 
 --
