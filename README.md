@@ -5,7 +5,7 @@
 
 Research Interests 
 --
-`Self-cognition` `Social decision-making` `computational modelling` 
+`Self-cognition` `Social decision making` `computational modelling` 
 `meta-research`
 
 Education 
