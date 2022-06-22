@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @HelenLiu
-- I’m currently a research assistant at Nanjing Normal University(NNU).
-- I'm new to programming and modelling,still developing my skills ;)
+- Ph.D student in Applied Psychology (starting in Sept. 2022): School of Humanities and Social Science, The Chinese University of Hong Kong (Shenzhen), Shenzhen, China
+- New to programming and modelling,still developing my skills ;)
 - 📫 Reach me at helenliu0609@hotmail.com!
 
 Research Interests 
 --
-`Self-cognition` `Social decision making` `computational modelling` 
-`meta-research`
+`Self-cognition` `Social decision making` `Computational modelling` 
+`Meta-research`
 
 Education 
 -- 
@@ -35,6 +35,13 @@ Awards
 - 2021 Postgraduate Student Leader of the Year Award, USYD
 - 2017 Dean’s International Science Excellence Scholarship, ANU
 - 2017 Annual Studentship in English Excellence, SWU
+
+Internships
+-- 
+- Winter 2020 – Summer 2022 
+Soical Computational lab, Nanjing Normal Univeristy 
+
+Research assistant
 <!---
 HelenLiu0609/HelenLiu0609 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
