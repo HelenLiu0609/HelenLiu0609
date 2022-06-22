@@ -39,7 +39,7 @@ Awards
 Internships
 -- 
 - Winter 2020 – Summer 2022 
-Soical Computational lab, Nanjing Normal Univeristy 
+Computational Social Cognition Lab, Nanjing Normal Univeristy 
 
 Research assistant
 <!---
