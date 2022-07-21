@@ -22,7 +22,7 @@ Education
 
 ■	__Southwest University (SWU)__, Chongqing, China   
 
-	Dual Degree, B.Sc. in Psychology  
+	 B.Sc. in Psychology in ANU and SWU
 	
 Publication 
 --
