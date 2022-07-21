@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HelenLiu
-- 🧐I'M about to start my Ph.D in Applied Psychology in Sept. 2022: School of Humanities and Social Science, The Chinese University of Hong Kong (Shenzhen), Shenzhen, China
+- 🧐About to start my Ph.D in Applied Psychology in Sept. 2022: School of Humanities and Social Science, The Chinese University of Hong Kong (Shenzhen), Shenzhen, China
 - New to programming and modelling,still developing my skills ;)
 - 📫 Reach me at helenliu0609@hotmail.com!
 
