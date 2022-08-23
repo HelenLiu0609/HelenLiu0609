@@ -10,13 +10,20 @@ Research Interests
 
 Education 
 -- 
-1. 02/2021-01/2022
+1. In progress (expected graduation 06/2026)
+
+■	__The Chinese University of Hong Kong (Shenzhen)__, Shenzhen, China
+ 
+
+	Ph.D in Applied Psychology
+
+2. 02/2021-01/2022
 
 ■	__University of Sydney (USYD)__, Sydney, Australia  
 
 	M.Ed. in Educational Psychology
 
-2. 09/2016-10/2020
+3. 09/2016-10/2020
 
 ■	__Australian National University (ANU)__, Canberra, Australia 
 
