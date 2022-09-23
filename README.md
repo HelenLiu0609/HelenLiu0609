@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HelenLiu
 - 🧐 Ph.D student in Applied Psychology: School of Humanities and Social Science, The Chinese University of Hong Kong (Shenzhen), Shenzhen, China
-- “Laziness is the TRUE Mother of Invention”
+- “Laziness is the TRUE Mother of Coding”
 - 📫 Reach me at helenliu0609@hotmail.com!
 
 Research Interests 
