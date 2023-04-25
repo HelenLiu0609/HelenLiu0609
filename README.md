@@ -32,7 +32,7 @@ Education
 	
 Publication
 -- 
--  Hu,C-P*, __Liu, Z.*__, Wang,X., & Lu,S. (2023). Cognitive Ontology: A Unified Framework for Psychological Constructs. (In Chinese) CSTR:32003.36.ChinaXiv.202301.00098.V1
+-  Hu,C-P*, __Liu, Z.*__, Wang,X., & Lu,S. (2023). Cognitive Ontology: A Unified Framework for Psychological Constructs. (In Chinese) https://chinaxiv.org/abs/202301.00098
 -  __Liu, Z.*__, Wen,J., Liu,Y., &  Hu,C-P. (2022). The Effectiveness of Self: A Meta-analysis of Using Self-Referential Encoding in Education. Educational Psychology Review (under review).
 -  Li,J., __Liu, Z.__, Du, Z., Zhu, N., Qiu, X., & Xu, X. (2021). Cortical Activation During Finger Tapping Task Performance in Parkinson’s Disease Is Influenced by Priming Conditions: An ALE Meta-Analysis. Frontiers in Human Neuroscience, 15, 774656–. https://doi.org/10.3389/fnhum.2021.774656
 
