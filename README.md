@@ -34,7 +34,7 @@ Publication
 -- 
 - Hu, M.#, __Liu, Z.#__, Zheng, Y., Sui, J., & Chuan-Peng, H. (2023). Reliability of Self-Prioritization Effect as Measured by the Perceptual Matching Task: Evidence from Multiple Datasets. https://doi.org/10.17605/OSF.IO/ZV628 (Pre-registration)
 -  Hu,C-P*, __Liu, Z.*__, Wang,X., & Lu,S. (2023). Cognitive Ontology: A Unified Framework for Psychological Constructs. (In Chinese) https://chinaxiv.org/abs/202301.00098
--  __Liu, Z.*__, Wen,J., Liu,Y., &  Hu,C-P. (2022). The Effectiveness of Self: A Meta-analysis of Using Self-Referential Encoding in Education. British Journal of Educational Psychology (major revision).
+-  __Liu, Z.*__, Wen,J., Liu,Y., &  Hu,C-P. (2022). The Effectiveness of Self: A Meta-analysis of Using Self-Referential Encoding in Education. British Journal of Educational Psychology (under major revision).
 - __Liu, Z.__, Hu,C-P, & Sui, J. (2021). Is Self-associative Learning Unique? A Meta-analytical Comparison of the Prioritization Effect of Self- and Non-self Associative Learning. https://doi.org/10.17605/OSF.IO/EUQMF (Pre-registration)
 -  Li,J., __Liu, Z.__, Du, Z., Zhu, N., Qiu, X., & Xu, X. (2021). Cortical Activation During Finger Tapping Task Performance in Parkinson’s Disease Is Influenced by Priming Conditions: An ALE Meta-Analysis. Frontiers in Human Neuroscience, 15, 774656–. https://doi.org/10.3389/fnhum.2021.774656
 
