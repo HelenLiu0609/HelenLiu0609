@@ -32,7 +32,7 @@ Education
 	
 Publication
 -- 
--  __Liu, Z.*__, Wen,J., Liu,Y., &  Hu,C-P. (2023). The Effectiveness of Self: A Meta-analysis of Using Self-Referential Encoding Techniques in Education. British Journal of Educational Psychology (accepted).
+-  __Liu, Z.*__, Wen,J., Liu,Y., &  Hu,C-P. (2023). The Effectiveness of Self: A Meta-analysis of Using Self-Referential Encoding Techniques in Education. British Journal of Educational Psychology, 00, 1–26. https://doi.org/10.1111/bjep.12636
 -  __Liu, Z.#__, Hu, M.#, Zheng, Y., Sui, J., & Hu,C-P. (2023). Reliability of Self-Prioritization Effect as Measured by the Perceptual Matching Task: Evidence from Multiple Datasets. https://doi.org/10.17605/OSF.IO/ZV628 (Pre-registration)
 -  Hu,C-P*, __Liu, Z.*__, Wang,X., & Lu,S. (2023). Cognitive Ontology: A Unified Framework for Psychological Constructs. (In Chinese) https://chinaxiv.org/abs/202301.00098
 - __Liu, Z.__, Hu,C-P, & Sui, J. (2021). Is Self-associative Learning Unique? A Meta-analytical Comparison of the Prioritization Effect of Self- and Non-self Associative Learning. https://doi.org/10.17605/OSF.IO/EUQMF (Pre-registration)
