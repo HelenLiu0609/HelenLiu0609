@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HelenLiu
 - 🧐 Ph.D student in Applied Psychology, working with [Prof. Xiaotian Wang](https://myweb.cuhk.edu.cn/xtwang) at the [Human Development & Behaviroal Decision Making Lab ](https://hd-bdm-lab.netlify.app)at the Chinese University of Hong Kong - Shenzhen, Shenzhen, China
 - “Laziness is the TRUE Mother of Coding”
-- 📫 Reach me at helenliu0609@hotmail.com!
+- 📫 Reach me at zhengliu2@link.cuhk.edu.cn!
 
 Research Interests 
 --
