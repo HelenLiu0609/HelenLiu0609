@@ -46,7 +46,7 @@ Pre-registrations
 
 Conferences Presentation
 -- 
--  __Liu, Z.#__, Hu, M.#, Zheng, Y., Sui, J., & Hu,C-P.(2023) A Multiverse Assessment of the Reliability of the Perceptual Matching Task as a Measurement of the Self-Prioritization Effect. The 25th National Academic Conference of Psychology,Chengdu,China.
+-  __Liu, Z.#__, Hu, M.#, Zheng, Y., Sui, J., & Hu,C-P.(2023) A Multiverse Assessment of the Reliability of the Perceptual Matching Task as a Measurement of the Self-Prioritization Effect. The 25th National Academic Conference of Psychology, Chengdu, China.
 
 
 
