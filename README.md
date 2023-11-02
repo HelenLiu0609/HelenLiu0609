@@ -44,6 +44,12 @@ Pre-registrations
 -  __Liu, Z.#__, Hu, M.#, Zheng, Y., Sui, J., & Hu,C-P. (2023). Reliability of Self-Prioritization Effect as Measured by the Perceptual Matching Task: Evidence from Multiple Datasets. https://doi.org/10.17605/OSF.IO/ZV628 (Pre-registration)
 - __Liu, Z.__, Hu,C-P, & Sui, J. (2021). Is Self-associative Learning Unique? A Meta-analytical Comparison of the Prioritization Effect of Self- and Non-self Associative Learning. https://doi.org/10.17605/OSF.IO/EUQMF (Pre-registration)
 
+Conferences Presentation
+-- 
+-  __Liu, Z.#__, Hu, M.#, Zheng, Y., Sui, J., & Hu,C-P.(2023) A Multiverse Assessment of the Reliability of the Perceptual Matching Task as a Measurement of the Self-Prioritization Effect. The 25th National Academic Conference of Psychology,Chengdu,China.
+
+
+
 Awards 
 --
 
