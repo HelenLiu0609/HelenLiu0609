@@ -46,13 +46,14 @@ Pre-registrations
 
 Conferences Presentation
 -- 
+-  __Liu, Z.__, Noel,E.S., Wang X.T. (2023). Differential Signaling Effects of Blood Glucose on Delay Discounting in Healthy and Type 1 Diabetes Samples. International Conference on Mental Health Promotion, Shenzhen, China.
 -  __Liu, Z.#__, Hu, M.#, Zheng, Y., Sui, J., & Hu,C-P.(2023). A Multiverse Assessment of the Reliability of the Perceptual Matching Task as a Measurement of the Self-Prioritization Effect. The 25th National Academic Conference of Psychology, Chengdu, China.
 
 
 
 Awards 
 --
-
+- 2023 Best Oral Presenttaion, International Conference on Mental Health Promotion
 - 2021 Postgraduate Student Leader of the Year Award, USYD
 - 2017 Dean’s International Science Excellence Scholarship, ANU
 - 2017 Annual Studentship in English Excellence, SWU
