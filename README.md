@@ -53,7 +53,7 @@ Conferences Presentation
 
 Awards 
 --
-- 2023 Best Oral Presenttaion, International Conference on Mental Health Promotion
+- 2023 Best Oral Presentaion, International Conference on Mental Health Promotion
 - 2021 Postgraduate Student Leader of the Year Award, USYD
 - 2017 Dean’s International Science Excellence Scholarship, ANU
 - 2017 Annual Studentship in English Excellence, SWU
