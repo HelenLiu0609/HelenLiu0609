@@ -76,9 +76,9 @@ Teaching assistant
 Ongoing Projects
 --
 ■	__Experiments__ 
-
-1. Computational Mechanisms of Value Representation in Risky Decision Making
+1. Computational Mechanisms of Value Representation in Risky Decision from Experience 
 2. Decomposing the Decreasing impatience Effect in Delay Discounting
+3. Time Bank Policy in China
 4. Loss Aversion in Driving
 
 ■	__Meta-research__
