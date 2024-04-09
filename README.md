@@ -12,7 +12,6 @@ Education
 1. In progress (expected graduation 06/2026)
 
 ■	__The Chinese University of Hong Kong - Shenzhen__, Shenzhen, China
- 
 
 	Ph.D in Applied Psychology
 
