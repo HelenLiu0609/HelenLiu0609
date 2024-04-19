@@ -83,8 +83,7 @@ Ongoing Projects
 4. Loss Aversion in Driving
 
 ■	__Meta-research__
-1. Recognition of Registered Reports in Psychology
-2. Meta-analytical Review of the Self-prioritization Effect in the Associative Learning Tasks
+1. Meta-analytical Review of the Self-prioritization Effect in the Associative Learning Tasks
 
 <!---
 HelenLiu0609/HelenLiu0609 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
