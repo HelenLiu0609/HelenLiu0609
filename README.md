@@ -62,17 +62,17 @@ Awards
 
 Internships
 -- 
-- Winter 2020 – Summer 2022 
-
-Computational Social Cognition Lab, Nanjing Normal Univeristy 
-
-Research assistant
-
 - Summer 2023 
 
 Neuromatch Academy- Computational Neuroscience
 
 Teaching assistant
+
+- Winter 2020 – Summer 2022 
+
+Meta-Self Lab (PI：Professor Hu Chuan-peng), Nanjing Normal Univeristy 
+
+Lab Manager & Research assistant 
 
 Ongoing Projects
 --
