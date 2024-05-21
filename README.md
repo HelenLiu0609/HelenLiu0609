@@ -47,7 +47,7 @@ Pre-registrations
 
 Conferences Presentation
 -- 
-- Cai,Y., Hu,M., __Liu,Z.*__. (2024). Business Decision-making Game Facilitates Training Effectiveness: A Three-level Meta-Analysis. The Academy of Management Annual Meeting, Chicago, Illinois, USA.
+- Cai,Y., Hu,M., __Liu,Z.*__. (2024). Business Decision-making Game Facilitates Training Effectiveness: A Three-level Meta-Analysis. The Academy of Management(AOM) Annual Meeting, Chicago, Illinois, USA.
 -  __Liu, Z.__, Noel,E.S., Wang X.T. (2023). Differential Signaling Effects of Blood Glucose on Delay Discounting in Healthy and Type 1 Diabetes Samples. International Conference on Mental Health Promotion, Shenzhen, China.
 -  __Liu, Z.#__, Hu, M.#, Zheng, Y., Sui, J., & Hu,C-P.(2023). A Multiverse Assessment of the Reliability of the Perceptual Matching Task as a Measurement of the Self-Prioritization Effect. The 25th National Academic Conference of Psychology, Chengdu, China.
 
