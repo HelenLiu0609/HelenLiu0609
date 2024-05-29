@@ -33,11 +33,11 @@ Publication
 -- 
 - __Liu,Z.__,Wang X.T., Wang,Z., Yan,W., Hu,M. (2024). Registered Reports in Psychology Across Academic Citations and Public Dissemination: A comparative Meta-evaluation of More than a Decade of Practice. (under review)
 - Cai,Y., Hu,M., __Liu,Z.*__. (2024). Business Decision-making Game Facilitates Training Effectiveness: A Three-level Meta-Analysis. (under review)
--  __Liu,Z.__, Noel,E.S., Wang X.T. (2023). Differential Signaling Effects of Blood Glucose on Delay Discounting in Healthy and Type 1 Diabetes Samples. (Accepted,Journal of Behavioral Medicine)
+-  __Liu,Z.__, Noel,E.S., Wang X.T. (2023). Differential Signaling Effects of Blood Glucose on Delay Discounting in Healthy and Type 1 Diabetes Samples. (Accepted, Journal of Behavioral Medicine)
 -  __Liu,Z.#__, Hu,M.#, Zheng,Y., Sui, J., & Hu,C-P. (2023). A Multiverse Assessment of the Reliability of the Perceptual Matching Task as a Measurement of the Self-Prioritization Effect. (major revision, Behavior Research Methods) preprint available: https://doi.org/10.31234/osf.io/g6uap
 -  __Liu,Z.*__, Wen,J., Liu,Y., & Hu, C.-P. (2023). The Effectiveness of Self: A Meta-analysis of Using Self-Referential Encoding Techniques in Education. British Journal of Educational Psychology, 94, 112–137. https://doi.org/10.1111/bjep.12636
 - Hu, C.-P*, __Liu,Z.*__, Wang,X., Lu,S. (2023). Cognitive Ontology: A Unified Framework for Psychological Constructs. (In Chinese) https://chinaxiv.org/abs/202301.00098
--  Li,J., __Liu,Z.__, Du,Z., Zhu,N., Qiu,X., & Xu,X. (2021). Cortical Activation During Finger Tapping Task Performance in Parkinson’s Disease Is Influenced by Priming Conditions: An ALE Meta-Analysis. Frontiers in Human Neuroscience, 15, 774656–. https://doi.org/10.3389/fnhum.2021.774656
+-  Li,J., __Liu,Z.__, Du,Z., Zhu,N., Qiu,X., & Xu,X. (2021). Cortical Activation During Finger Tapping Task Performance in Parkinson’s Disease Is Influenced by Priming Conditions: An ALE Meta-Analysis. Frontiers in Human Neuroscience, 15, 774656. https://doi.org/10.3389/fnhum.2021.774656
 
 
 Pre-registrations
