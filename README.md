@@ -76,15 +76,18 @@ Lab Manager & Research assistant
 
 Ongoing Projects
 --
-■	__Experiments__ 
+■	__Computational Modelling__ 
 1. Computational Mechanisms of Value Representation in Risky Decision from Experience 
 2. Decomposing the Decreasing impatience Effect in Delay Discounting
-3. Time Bank Policy in China
-4. Loss Aversion in Driving
+
+■	__Experiments__ 
+1. Time Bank Policy in China
+2. Loss Aversion in Driving
 
 ■	__Meta-research__
 1. Meta-analytical Review of the Self-prioritization Effect in the Associative Learning Tasks
-
+2. Registered reports in Psychology
+ 
 <!---
 HelenLiu0609/HelenLiu0609 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
