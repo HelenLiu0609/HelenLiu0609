@@ -31,7 +31,7 @@ Education
 	
 Publication
 -- 
-- __Liu,Z.__,Wang X.T., Wang,Z., Yan,W., Hu,M. (2024). Registered Reports in Psychology across Academic Citations and Public Dissemination: A Comparative Meta-evaluation of More than a Decade of Practice. (major revision,American Psychologist)
+- __Liu,Z.__, Wang X.T., Wang,Z., Yan,W., Hu,M. (2024). Registered Reports in Psychology across Academic Citations and Public Dissemination: A Comparative Meta-evaluation of More than a Decade of Practice. (major revision,American Psychologist)
 - Cai,Y., Hu,M., __Liu,Z.*__. (2024). Business Decision-making Game Facilitates Training Effectiveness: A Three-level Meta-Analysis. (under review)
 -  __Liu,Z.__, Noel,E.S., Wang X.T. (2024). Differential Signaling Effects of Blood Glucose on Delay Discounting in Healthy and Type 1 Diabetes Samples. Journal of Behavioral Medicine. https://doi.org/10.1007/s10865-024-00500-7
 -  __Liu,Z.#__, Hu,M.#, Zheng,Y., Sui, J., & Hu,C-P. (2023). A Multiverse Assessment of the Reliability of the Self Matching Task as a Measurement of the Self-Prioritization Effect. (major revision, Behavior Research Methods) preprint available: https://doi.org/10.31234/osf.io/g6uap
