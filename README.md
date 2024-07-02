@@ -71,7 +71,7 @@ Teaching assistant
 
 - Winter 2020 – Summer 2022 
 
-Meta-Self Lab (PI：Professor Hu Chuan-peng), Nanjing Normal Univeristy 
+Meta-Self Lab (PI: Professor Hu Chuan-peng), Nanjing Normal Univeristy 
 
 Lab Manager & Research assistant 
 
