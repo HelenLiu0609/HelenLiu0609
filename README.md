@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @HelenLiu
-- 🧐 Ph.D student in Applied Psychology, working with [Prof. Xiaotian Wang](https://myweb.cuhk.edu.cn/xtwang) at the [Human Development & Behaviroal Decision Making Lab ](https://hd-bdm-lab.netlify.app)at the Chinese University of Hong Kong - Shenzhen, Shenzhen, China
-- “Laziness is the TRUE Mother of Coding”
+- 🧐 Ph.D student in Applied Psychology, working with [Prof. X.T.(XiaoTian) Wang](https://myweb.cuhk.edu.cn/xtwang) at the [Human Development & Behaviroal Decision Making Lab ](https://hd-bdm-lab.netlify.app) at the Chinese University of Hong Kong - Shenzhen, Shenzhen, China
 - 📫 Reach me at zhengliu2@link.cuhk.edu.cn!
 
 Research Interests 
 --
- `Social decision making` `Self-cognition` `Meta-research` `Computational modelling` 
+ `Behavioral decision making` `Self-cognition` `Meta-research` `Computational modelling` 
 
 Education 
 -- 
@@ -87,7 +86,7 @@ Ongoing Projects
 
 ■	__Meta-research__
 1. Meta-analytical Review of the Self-prioritization Effect in the Associative Learning Tasks
-2. Registered reports in Psychology
+2. Registered Reports in Psychology
  
 <!---
 HelenLiu0609/HelenLiu0609 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
