@@ -32,7 +32,7 @@ Publication
 -- 
 __# Equal Contribution, * Corresponding__
 - __Liu,Z.__, Wang X.T., Wang,Z., Yan,W., Hu,M. (2024). Registered Reports in Psychology across Academic Citations and Public Dissemination: A Comparative Meta-evaluation of More than a Decade of Practice. (major revision,American Psychologist)
-- __Liu,Z.#__, Hu,M.#, Zheng,Y., Sui, J., & Hu,C-P. (2024). A Multiverse Assessment of the Reliability of the Self Matching Task as a Measurement of the Self-Prioritization Effect. (minor revision, Behavior Research Methods) preprint available: https://doi.org/10.31234/osf.io/g6uap
+- __Liu,Z.#__, Hu,M.#, Zheng,Y., Sui, J., & Hu,C-P. (2024). A Multiverse Assessment of the Reliability of the Self Matching Task as a Measurement of the Self-Prioritization Effect. (Accepted, Behavior Research Methods) preprint available: https://doi.org/10.31234/osf.io/g6uap
 - Cai, Y., __Liu,Z.*__, Hu, M., Pang, T., LUO, W., Cheng, J., & WEI, Y. (2024). Business Decision-Making Game Facilitates Training Effectiveness: A Three-Level Meta-Analysis. In Academy of Management Proceedings (Vol. 2024, No. 1, p. 13471).https://doi.org/10.5465/AMPROC.2024.13471abstract
 -  __Liu,Z.__, Noel,E.S., Wang X.T. (2024). Differential Signaling Effects of Blood Glucose on Delay Discounting in Healthy and Type 1 Diabetes Samples. Journal of Behavioral Medicine. https://doi.org/10.1007/s10865-024-00500-7
 -  __Liu,Z.*__, Wen,J., Liu,Y., & Hu, C.-P. (2023). The Effectiveness of Self: A Meta-analysis of Using Self-Referential Encoding Techniques in Education. British Journal of Educational Psychology, 94, 112–137. https://doi.org/10.1111/bjep.12636
