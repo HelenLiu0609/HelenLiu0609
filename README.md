@@ -79,7 +79,7 @@ Ongoing Projects
 --
 ■	__Computational Modelling__ 
 1. Computational Mechanisms of Value Representation in Risky Decision from Experience 
-2. Decomposing the Decreasing impatience Effect in Delay Discounting
+2. Compuational Mechanisms of Time-time Delay Discounting
 
 ■	__Experiments__ 
 1. Time Bank Policy in China
@@ -87,7 +87,7 @@ Ongoing Projects
 
 ■	__Meta-research__
 1. Meta-analytical Review of the Self-prioritization Effect in the Associative Learning Tasks
-2. Registered Reports in Psychology
+2. Meta-evaluation of Registered Reports in Psychology
  
 <!---
 HelenLiu0609/HelenLiu0609 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
