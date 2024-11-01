@@ -77,13 +77,13 @@ Lab Manager & Research Assistant
 
 Ongoing Projects
 --
-■	__Computational Modelling__ 
+■	__Experiements & Computational Modelling__ 
 1. Computational Mechanisms of Value Representation in Risky Decision from Experience 
-2. Compuational Mechanisms of Time-time Delay Discounting
+2. Computational Mechanisms of Adaptation of Referecne Points to Reward Distribution
+3. Compuational Mechanisms of Time Delay Discounting
 
-■	__Experiments__ 
-1. Time Bank Policy in China
-2. Loss Aversion in Driving
+■	__Imaging Study__ 
+1. Receipriocity in Time Bank System in China
 
 ■	__Meta-research__
 1. Meta-analytical Review of the Self-prioritization Effect in the Associative Learning Tasks
