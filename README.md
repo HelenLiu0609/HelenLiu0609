@@ -47,6 +47,7 @@ Pre-registrations
 
 Conferences Presentation
 -- 
+- __Liu,Z.__, Wang X.T., Wang,Z., Yan,W., Hu,M. (2024).Registered Reports in Psychology across Academic Citations and Public Dissemination. CUHK(SZ)-CUHK Joint Graduate Research Forum 2024, Shenzhen, China.
 - Cai,Y., Hu,M., __Liu,Z.*__. (2024). Business Decision-making Game Facilitates Training Effectiveness: A Three-level Meta-Analysis. The Academy of Management(AOM) Annual Meeting, Chicago, Illinois, USA.
 - Cai,Y., Hu,M., __Liu,Z.*__. (2024). Business Decision-making Game Facilitates Training Effectiveness: A Three-level Meta-Analysis. Navigating New Horizons: Management Research in the Greater Bay Area Conference,Shenzhen, China.
 -  __Liu, Z.__, Noel,E.S., Wang X.T. (2023). Differential Signaling Effects of Blood Glucose on Delay Discounting in Healthy and Type 1 Diabetes Samples. International Conference on Mental Health Promotion, Shenzhen, China.
@@ -56,6 +57,7 @@ Conferences Presentation
 
 Awards 
 --
+- 2024 Third Prize in Oral Presentaion, CUHK(SZ)-CUHK Joint Graduate Research Forum
 - 2023 Best Oral Presentaion, International Conference on Mental Health Promotion
 - 2021 Postgraduate Student Leader of the Year Award, USYD
 - 2017 Dean’s International Science Excellence Scholarship, ANU
