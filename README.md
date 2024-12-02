@@ -82,7 +82,8 @@ Ongoing Projects
 ■	__Experiements & Computational Modelling__ 
 1. Computational Mechanisms of Value Representation in Risky Decision from Experience 
 2. Computational Mechanisms of Adaptation of Referecne Points to Reward Distribution
-3. Compuational Mechanisms of Time Delay Discounting
+3. Model Comparisons of Time Delay Discounting
+4. R Package for Reiforcment Learning Framework of TAFC Task
 
 ■	__Imaging Study__ 
 1. Receipriocity in Time Bank System in China
