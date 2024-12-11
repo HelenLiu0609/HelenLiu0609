@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HelenLiu
+![image](https://github.com/user-attachments/assets/c486ade6-05d2-4a69-bb78-ec9d201b99cb)- 👋 Hi, I’m @HelenLiu
 - 🧐 Ph.D student in Applied Psychology, working with [Prof. X.T.(XiaoTian) Wang](https://myweb.cuhk.edu.cn/xtwang) at the [Human Development & Behaviroal Decision Making Lab ](https://hd-bdm-lab.netlify.app) at the Chinese University of Hong Kong - Shenzhen, Shenzhen, China
 - 📫 Reach me at zhengliu2@link.cuhk.edu.cn!
 
@@ -34,7 +34,7 @@ __# Equal Contribution, * Corresponding__
 - __Liu,Z.__, Wang X.T., Wang,Z., Yan,W., Hu,M. (2024). Registered Reports in Psychology across Academic Citations and Public Dissemination: A Comparative Meta-evaluation of More than a Decade of Practice. (minor revision,American Psychologist)
 - __Liu,Z.#__, Hu,M.#, Zheng,Y., Sui, J., & Hu,C-P. (2024). A Multiverse Assessment of the Reliability of the Self Matching Task as a Measurement of the Self-Prioritization Effect. (Accepted, Behavior Research Methods) preprint available: https://doi.org/10.31234/osf.io/g6uap
 - Cai, Y., __Liu,Z.*__, Hu, M., Pang, T., LUO, W., Cheng, J., & WEI, Y. (2024). Business Decision-Making Game Facilitates Training Effectiveness: A Three-Level Meta-Analysis. In Academy of Management Proceedings (Vol. 2024, No. 1, p. 13471).https://doi.org/10.5465/AMPROC.2024.13471abstract
--  __Liu,Z.__, Noel,E.S., Wang X.T. (2024). Differential Signaling Effects of Blood Glucose on Delay Discounting in Healthy and Type 1 Diabetes Samples. Journal of Behavioral Medicine. https://doi.org/10.1007/s10865-024-00500-7
+-  __Liu,Z.__, Noel,E.S., Wang X.T. (2024). Differential Signaling Effects of Blood Glucose on Delay Discounting in Healthy and Type 1 Diabetes Samples. Journal of Behavioral Medicine,839–848. https://doi.org/10.1007/s10865-024-00500-7
 -  __Liu,Z.*__, Wen,J., Liu,Y., & Hu, C.-P. (2023). The Effectiveness of Self: A Meta-analysis of Using Self-Referential Encoding Techniques in Education. British Journal of Educational Psychology, 94, 112–137. https://doi.org/10.1111/bjep.12636
 - Hu, C.-P*, __Liu,Z.__, Wang,X., Lu,S. (2023). Cognitive Ontology: A Unified Framework for Psychological Constructs. (In Chinese) https://chinaxiv.org/abs/202301.00098
 -  Li,J., __Liu,Z.__, Du,Z., Zhu,N., Qiu,X., & Xu,X. (2021). Cortical Activation During Finger Tapping Task Performance in Parkinson’s Disease Is Influenced by Priming Conditions: An ALE Meta-Analysis. Frontiers in Human Neuroscience, 15, 774656. https://doi.org/10.3389/fnhum.2021.774656
