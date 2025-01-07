@@ -84,13 +84,13 @@ Ongoing Projects
 2. Computational Mechanisms of Adaptation of Referecne Points to Reward Distribution
 3. Model Comparisons of Temporal Delay Discounting
 4. R Package for Reiforcment Learning Framework of TAFC Task
+5. AI Facilitated Counseling Psychology
 
 ■	__Imaging Study__ 
 1. Receipriocity in Time Bank System in China
 
 ■	__Meta-research__
 1. Meta-analytical Review of the Self-prioritization Effect in the Associative Learning Tasks
-2. Meta-evaluation of Registered Reports in Psychology
  
 <!---
 HelenLiu0609/HelenLiu0609 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
