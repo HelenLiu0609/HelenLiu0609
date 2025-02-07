@@ -31,7 +31,7 @@ Education
 Publication 
 -- 
 __# Equal Contribution, * Corresponding__
-- __Liu,Z.__, Wang X.T., Wang,Z., Yan,W., Hu,M. (2024). Registered Reports in Psychology across Academic Citations and Public Dissemination: A Comparative Meta-evaluation of More than a Decade of Practice. (Accepted, American Psychologist)
+- __Liu,Z.__, Wang, X. T. (X.), Wang, Z., Yan, W., & Hu, M. (2025). Registered reports in psychology across scholarly citations and public dissemination: A comparative metaevaluation of more than a decade of practice. American Psychologist. Advance online publication. https://doi.org/10.1037/amp0001503
 - __Liu,Z.__, Hu, M.#, Zheng,Y., Sui, J., & Hu,C-P. (2025).A Multiverse Assessment of the Reliability of the Self-matching Task as a Measurement of the Self-prioritization Effect. Behavior Research Methods,57, 37. https://doi.org/10.3758/s13428-024-02538-6
 - Cai, Y., __Liu,Z.*__, Hu, M., Pang, T., LUO, W., Cheng, J., & WEI, Y. (2024). Business Decision-Making Game Facilitates Training Effectiveness: A Three-Level Meta-Analysis. In Academy of Management Proceedings (Vol. 2024, No. 1, p. 13471).https://doi.org/10.5465/AMPROC.2024.13471abstract
 -  __Liu,Z.__, Noel,E.S., Wang X.T. (2024). Differential Signaling Effects of Blood Glucose on Delay Discounting in Healthy and Type 1 Diabetes Samples. Journal of Behavioral Medicine,839–848. https://doi.org/10.1007/s10865-024-00500-7
