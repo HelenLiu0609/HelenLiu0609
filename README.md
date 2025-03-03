@@ -84,7 +84,7 @@ Ongoing Projects
 2. Computational Mechanisms of Adaptation of Referecne Points to Reward Distribution
 3. Model Comparisons of Temporal Delay Discounting
 4. R Package for Reiforcment Learning Framework of TAFC Task
-5. AI Facilitated Counseling Psychology
+5. Decomposing Fork Wisdom using Natural Language Processing from Negative Life Events 
 
 ■	__Imaging Study__ 
 1. Receipriocity in Time Bank System in China
