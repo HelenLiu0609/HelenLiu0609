@@ -48,7 +48,7 @@ Pre-registrations
 
 Conferences Presentation
 -- 
-- Hu, M. #, __Liu, Z. #__, Wang X.T., Li, R. (2025).BinaryRL: An R Package for Building Reinforcement Learning Models in Value-based Two-alternative Forced Choice Task. 中国心理学会普通心理和实验心理专业委员会2025年学术年会, Chengdu, China.
+- Hu, M. #, __Liu, Z. #__, Wang X.T., Li, R. (2025).BinaryRL: An R Package for Building Reinforcement Learning Models in Value-based Two-alternative Forced Choice Task. The 2025 Academic Annual Conference of the Chinese Psychological Society's General Psychology and Experimental Psychology Committee, Chengdu, China.
 - __Liu,Z.__, Wang X.T., Wang,Z., Yan,W., Hu,M. (2024).Registered Reports in Psychology across Academic Citations and Public Dissemination. CUHK(SZ)-CUHK Joint Graduate Research Forum 2024, Shenzhen, China.
 - Cai,Y., Hu,M., __Liu,Z.*__. (2024). Business Decision-making Game Facilitates Training Effectiveness: A Three-level Meta-Analysis. The Academy of Management(AOM) Annual Meeting, Chicago, Illinois, USA.
 - Cai,Y., Hu,M., __Liu,Z.*__. (2024). Business Decision-making Game Facilitates Training Effectiveness: A Three-level Meta-Analysis. Navigating New Horizons: Management Research in the Greater Bay Area Conference,Shenzhen, China.
