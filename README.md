@@ -31,6 +31,7 @@ Education
 Publication 
 -- 
 __# Equal Contribution, * Corresponding__
+- Hu,M.#, __Liu,Z.#__,Wang,X. T. (X.),Li,R.(2025). binaryRL: Reinforcement Learning Modeling of Two-Alternative Forced Choice Decision Making in R — A Step-by-Step Tutorial. under review. preprint:https://osf.io/preprints/psyarxiv/b7tvc_v1/
 - Zhu,P.#, __Liu,Z.#__, Kang,C., & Hu,C-P. (2025).Measurement Reliability of Cognitive Tasks: Current Trends and Future Directions.(In Chinese) Chinese Science Bulletin. Advance online publication. https://doi.org/10.1360/CSB-2025-0551
 - __Liu,Z.__, Wang,X. T. (X.), Wang,Z., Yan,W., & Hu,M. (2025). Registered reports in psychology across scholarly citations and public dissemination: A comparative metaevaluation of more than a decade of practice. American Psychologist. Advance online publication. https://doi.org/10.1037/amp0001503
 - __Liu,Z.#__, Hu,M.#, Zheng,Y., Sui,J., & Hu,C-P. (2025).A Multiverse Assessment of the Reliability of the Self-matching Task as a Measurement of the Self-prioritization Effect. Behavior Research Methods,57, 37. https://doi.org/10.3758/s13428-024-02538-6
