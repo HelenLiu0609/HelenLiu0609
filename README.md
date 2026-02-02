@@ -31,6 +31,7 @@ Education
 Publication 
 -- 
 __# Equal Contribution, * Corresponding__
+- __Liu, Z.__, Yang Z.H, Wang X.T. Time as Currency: Delay Discounting in Time Banks and Policy Implications. under review.
 - Hu,M.#, __Liu,Z.#__,Wang,X. T. (X.),Li,R.(2025). binaryRL: Reinforcement Learning Modeling of Two-Alternative Forced Choice Decision Making in R — A Step-by-Step Tutorial. under review. preprint:https://osf.io/preprints/psyarxiv/b7tvc_v1/
 - Zhu,P.#, __Liu,Z.#__, Kang,C., & Hu,C-P. (2025).Measurement Reliability of Cognitive Tasks: Current Trends and Future Directions.(In Chinese) Chinese Science Bulletin. Advance online publication. https://doi.org/10.1360/CSB-2025-0551
 - __Liu,Z.__, Wang,X. T. (X.), Wang,Z., Yan,W., & Hu,M. (2025). Registered reports in psychology across scholarly citations and public dissemination: A comparative metaevaluation of more than a decade of practice. American Psychologist. Advance online publication. https://doi.org/10.1037/amp0001503
