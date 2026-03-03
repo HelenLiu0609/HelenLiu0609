@@ -61,6 +61,10 @@ Conferences Presentation
 
 Awards 
 --
+- 2022-2026 Ph.D. Full Scholarship, The Chinese University of Hong Kong (Shenzhen)
+- 2025 Outstanding Presentation Award, Doctoral Forum, 26th National Conference of Psychology
+- 2025 Third Prize for Oral Presentation, The 3rd Interdisciplinary Forum on "Sustainable Development of
+Humanity" & National Graduate Academic Forum
 - 2024 Third Prize in Oral Presentaion, CUHK(SZ)-CUHK Joint Graduate Research Forum
 - 2023 Best Oral Presentaion, International Conference on Mental Health Promotion
 - 2021 Postgraduate Student Leader of the Year Award, USYD
