@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HelenLiu
-- 🧐 Ph.D student in Applied Psychology, working with [Prof. X.T.(XiaoTian) Wang](https://myweb.cuhk.edu.cn/xtwang) at the [Human Development & Behaviroal Decision Making Lab ](https://hd-bdm-lab.netlify.app) at the Chinese University of Hong Kong(Shenzhen), Shenzhen, China
+- 🧐 Ph.D in Applied Psychology, working with [Prof. X.T.(XiaoTian) Wang](https://myweb.cuhk.edu.cn/xtwang) at the [Human Development & Behaviroal Decision Making Lab ](https://hd-bdm-lab.netlify.app) at the Chinese University of Hong Kong(Shenzhen), Shenzhen, China
 - 📫 Reach me at zhengliu2@link.cuhk.edu.cn!
 
 Research Interests 
@@ -8,7 +8,7 @@ Research Interests
 
 Education 
 -- 
-1. In progress (expected graduation 2026)
+1.  09/2022-06/2026
 
 ■	__The Chinese University of Hong Kong(Shenzhen)__, Shenzhen, China
 
@@ -31,7 +31,7 @@ Education
 Publication 
 -- 
 __# Equal Contribution, * Corresponding__
-- __Liu, Z.__, Yang Z.H, Wang X.T. Time as Currency: Delay Discounting in Time Banks and Policy Implications. Minor Revision in Journal of Behavioral and Experimental Finance.
+- __Liu, Z.__, Yang Z.H, Wang X.T. Time as Currency: Delay Discounting in Time Banks and Policy Implications. Journal of Behavioral and Experimental Finance. Advance online publication.
 - Hu,M.#, __Liu,Z.#__,Wang,X. T. (X.),Li,R.(2025). binaryRL: Reinforcement Learning Modeling of Two-Alternative Forced Choice Decision Making in R — A Step-by-Step Tutorial. under review. preprint:https://osf.io/preprints/psyarxiv/b7tvc_v1/
 - Zhu,P.#, __Liu,Z.#__, Kang,C., & Hu,C-P. (2025).Measurement Reliability of Cognitive Tasks: Current Trends and Future Directions.(In Chinese) Chinese Science Bulletin. Advance online publication. https://doi.org/10.1360/CSB-2025-0551
 - __Liu,Z.__, Wang,X. T. (X.), Wang,Z., Yan,W., & Hu,M. (2025). Registered reports in psychology across scholarly citations and public dissemination: A comparative metaevaluation of more than a decade of practice. American Psychologist. Advance online publication. https://doi.org/10.1037/amp0001503
@@ -50,6 +50,8 @@ Pre-registrations
 
 Conferences Presentation
 -- 
+- __Liu, Z.__, Wang X.T.(2026) Saving for Whom and For What? How Social Ties and Resources Reshape the Cognitive Machinery of Intertemporal Saving. The 14th Conference for Chinese Psychologists, Shenzhen, China.
+- __Liu, Z.__, Wang X.T.(2025) Time as Currency: Delay Discounting in Time Banks and Policy Implications. The 26th National Academic Conference of Psychology, Jinan, China.
 - Hu, M. #, __Liu, Z. #__, Wang X.T., Li, R. (2025).BinaryRL: An R Package for Building Reinforcement Learning Models in Value-based Two-alternative Forced Choice Task. The 2025 Academic Annual Conference of the Chinese Psychological Society's General Psychology and Experimental Psychology Committee, Chengdu, China.
 - __Liu,Z.__, Wang X.T., Wang,Z., Yan,W., Hu,M. (2024).Registered Reports in Psychology across Academic Citations and Public Dissemination. CUHK(SZ)-CUHK Joint Graduate Research Forum 2024, Shenzhen, China.
 - Cai,Y., Hu,M., __Liu,Z.*__. (2024). Business Decision-making Game Facilitates Training Effectiveness: A Three-level Meta-Analysis. The Academy of Management(AOM) Annual Meeting, Chicago, Illinois, USA.
